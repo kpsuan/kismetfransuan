@@ -1,5 +1,5 @@
 # 💫 hello i'm fran!
-- currently working on my personal website<br>- studying computer science at University of the Philippines -Visayas<br>- fullstack developer
+- currently working on my personal website<br> - studying computer science at University of the Philippines -Visayas<br> - fullstack developer
 
 
 ## 🌐 Socials:
