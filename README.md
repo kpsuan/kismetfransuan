@@ -1,5 +1,5 @@
 # 💫 hello i'm fran!
-- learning cybersecurity e<br> - studying computer science at University of the Philippines -Visayas<br> - fullstack developer
+<br> - studying computer science at University of the Philippines -Visayas<br> - fullstack developer
 
 
 ## 🌐 Socials:
