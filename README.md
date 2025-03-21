@@ -1,5 +1,5 @@
 # 💫 hello i'm fran!
-<br> - studying computer science at University of the Philippines -Visayas<br> - fullstack developer
+<br> - i like to make things work, and i like it pretty
 
 
 ## 🌐 Socials:
