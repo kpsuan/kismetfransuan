@@ -1,6 +1,5 @@
 # 💫 hello i'm fran!
 <br>  i like to make things work, and i like it pretty
-<br> i <3 coke zero and cybersecurity
 
 
 ## 🌐 Socials:
